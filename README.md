@@ -3,8 +3,9 @@ Introduction
 **Clone**
 in your directory
 ```
-git clone https://github.com/krisnantobiyuh/poliklinik-basic.git
+git clone https://github.com/krisnantobiyuh/polyclinic-basic.git
 ```
+
 **More info**
 ![Bower version](https://img.shields.io/bower/v/adminlte.svg)
 [![npm version](https://img.shields.io/npm/v/admin-lte.svg)](https://www.npmjs.com/package/admin-lte)
