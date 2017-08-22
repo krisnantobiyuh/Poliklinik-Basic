@@ -3,7 +3,7 @@ Introduction
 **Clone**
 in your directory
 ```
-git clone https://github.com/krisnantobiyuh/polyclinic-basic.git
+git clone https://github.com/krisnantobiyuh/polyclinic-basic-native.git
 ```
 
 **More info**
